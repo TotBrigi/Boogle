@@ -1,0 +1,66 @@
+body {
+  background: url('http://www.reuun.com/data/out/26/402639149-coding-wallpapers.png') no-repeat center fixed;
+  background-size: cover;
+}
+
+.maincube {
+  width: 400px;
+  height: 400px;
+  background: aliceblue;
+  margin: 100px auto;
+  opacity: 0.9;
+}
+
+ h1 {
+  font-size: 50px;
+  text-align: center;
+}
+
+h2{
+  margin-bottom: 0;
+  margin-left: 20px;
+}
+
+h3 {
+  margin-top: 0;
+  margin-left: 20px;
+}
+
+h1, h2, h3, input, button, select {
+  font-family: fantasy;
+}
+
+input {
+width: 80%;
+text-align: left;
+margin-left: -30px;
+}
+
+.button1 {
+  margin: 20px 20px;
+}
+
+.button2 {
+border-radius: 15px;
+border: 2px;
+float: right;
+margin: 50px 65px;
+font-size: 20px;
+}
+
+button {
+  border-radius: 10px;
+  padding: 10px;
+
+}
+
+select {
+margin: 100px 10px;
+border-radius: 10px;
+padding: 5px;
+}
+
+button, select {
+  background-image: linear-gradient(to top, black, aliceblue);
+  color: linear-gradient)to left, black, aliceblue);
+}
